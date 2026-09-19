@@ -1,0 +1,83 @@
+[
+    {
+        "asset": "bed",
+        "orig_tris": 5412,
+        "opt_tris": 1134,
+        "mats": 2,
+        "size_kb": 40.34375,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "bedding",
+        "orig_tris": 16896,
+        "opt_tris": 5256,
+        "mats": 1,
+        "size_kb": 114.6484375,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "pillow",
+        "orig_tris": 196608,
+        "opt_tris": 54528,
+        "mats": 1,
+        "size_kb": 4048.7109375,
+        "pivot": "CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "desk",
+        "orig_tris": 104944,
+        "opt_tris": 53216,
+        "mats": 1,
+        "size_kb": 1250.80859375,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "laptop",
+        "orig_tris": 40448,
+        "opt_tris": 20848,
+        "mats": 3,
+        "size_kb": 516.3125,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "chair",
+        "orig_tris": 1640128,
+        "opt_tris": 492036,
+        "mats": 2,
+        "size_kb": 23003.34765625,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "window",
+        "orig_tris": 26408,
+        "opt_tris": 13208,
+        "mats": 4,
+        "size_kb": 291.83203125,
+        "pivot": "BOTTOM_CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "rug",
+        "orig_tris": 12,
+        "opt_tris": 12,
+        "mats": 1,
+        "size_kb": 2.46875,
+        "pivot": "CENTER",
+        "status": "Exported"
+    },
+    {
+        "asset": "clutter",
+        "orig_tris": 45390,
+        "opt_tris": 18170,
+        "mats": 19,
+        "size_kb": 483.890625,
+        "pivot": "World Origin",
+        "status": "Exported"
+    }
+]

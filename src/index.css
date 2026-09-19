@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap');
+
+:root {
+  font-family: 'Manrope', system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #3A3431;
+  background-color: #d8d0c0;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d8d0c0;
+}
+
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  background: #d8d0c0;
+}
+
+.cinematic-vignette {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse at 52% 44%, rgba(0,0,0,0) 36%, rgba(34,25,19,0.28) 100%);
+  z-index: 5;
+}
+
+.film-grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 6;
+  opacity: 0.045;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.hotspot-label {
+  background: rgba(255, 250, 244, 0.92);
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #222;
+  white-space: nowrap;
+  box-shadow: 0 10px 28px rgba(42, 28, 18, 0.18);
+  font-family: Manrope, sans-serif;
+  text-align: center;
+  line-height: 1.4;
+  border: 1px solid rgba(255,255,255,0.55);
+  animation: hotspotIn 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+  backdrop-filter: blur(12px);
+}
+
+.hotspot-kicker {
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+  letter-spacing: 0.12em;
+}
+
+.hotspot-sub {
+  color: #666;
+  font-weight: 500;
+}
+
+@keyframes hotspotIn {
+  from { opacity: 0; transform: translate3d(0, 10px, 0) scale(0.96); }
+  to { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hotspot-label,
+  .film-grain {
+    animation: none;
+  }
+}
+
+button { -webkit-tap-highlight-color: transparent; }
+button:focus-visible { outline: 2px solid #bf7659; outline-offset: 5px; }
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Typography styles */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+  color: #3A3431;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 0;
+  color: #3A3431;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #C9795B;
+}
+
+p {
+  color: #4A5568;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Screen reader only utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Scrollbars for overlay */
+.section-overlay > div {
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.section-overlay > div::-webkit-scrollbar {
+  width: 6px;
+}
+.section-overlay > div::-webkit-scrollbar-track {
+  background: transparent;
+}
+.section-overlay > div::-webkit-scrollbar-thumb {
+  background-color: #C9795B;
+  border-radius: 10px;
+}

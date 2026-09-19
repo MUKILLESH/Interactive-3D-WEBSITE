@@ -1,0 +1,4060 @@
+{
+  "materials": [
+    {
+      "i": 0,
+      "name": "black mouse",
+      "color": [
+        0.021090427413582802,
+        0.021090427413582802,
+        0.021090427413582802,
+        1
+      ],
+      "metallic": 0.06363636255264282,
+      "roughness": 0.3909090757369995,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 1,
+      "name": "wall",
+      "color": [
+        0.532439649105072,
+        0.5303937792778015,
+        0.30554234981536865,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 2,
+      "name": "Material.005",
+      "color": [
+        0.532439649105072,
+        0.27944815158843994,
+        0.2204427272081375,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 3,
+      "name": "room_old_house_MSH8_takht_room_obj_pasted__lambert5",
+      "metallic": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 4,
+      "name": "bed",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 5,
+      "name": "cactus_gasteria",
+      "metallic": 0,
+      "roughness": 0.5527864098548889,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 6,
+      "name": "clay_pot",
+      "color": [
+        0.28999999165534973,
+        0.18519483506679535,
+        0.13745999336242676,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5527864098548889,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 7,
+      "name": "ground_pot5",
+      "color": [
+        0.5,
+        0.5,
+        0.5,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5527864098548889,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 8,
+      "name": "stones",
+      "color": [
+        0.3197227716445923,
+        0.3197227716445923,
+        0.3197227716445923,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5527864098548889,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 9,
+      "name": "vase_gasteria",
+      "metallic": 0,
+      "roughness": 0.5527864098548889,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 10,
+      "name": "ofis_cher.002",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 11,
+      "name": "grey",
+      "color": [
+        0.104292131960392,
+        0.104292131960392,
+        0.104292131960392,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 12,
+      "name": "red.002",
+      "color": [
+        0.13734900951385498,
+        0.0166428554803133,
+        0.009762268513441086,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 13,
+      "name": "b_pvc",
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6018518209457397,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 14,
+      "name": "Material",
+      "color": [
+        0.380056232213974,
+        0.23055604100227356,
+        0.08951080590486526,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 15,
+      "name": "brown",
+      "color": [
+        0.13734900951385498,
+        0.05790523439645767,
+        0.015102098695933819,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.44999998807907104,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 16,
+      "name": "floor",
+      "metallic": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 17,
+      "name": "wood table",
+      "metallic": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 18,
+      "name": "white",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 19,
+      "name": "choti table",
+      "metallic": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 20,
+      "name": "pic",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 21,
+      "name": "pic ",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 22,
+      "name": "pic 1",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 23,
+      "name": "pics",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 24,
+      "name": "picc",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 25,
+      "name": "piic",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 26,
+      "name": "blue",
+      "color": [
+        0.023735087364912033,
+        0.05282866954803467,
+        0.1706445962190628,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 27,
+      "name": "red.001",
+      "color": [
+        0.532439649105072,
+        0.015525905415415764,
+        0.017525959759950638,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 28,
+      "name": "flower",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 29,
+      "name": "flowerr",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 30,
+      "name": "white computer",
+      "color": [
+        0.8900054693222046,
+        0.8900054693222046,
+        0.8900054693222046,
+        1
+      ],
+      "metallic": 0.09545454382896423,
+      "roughness": 0.41363635659217834,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 31,
+      "name": "Material.003",
+      "color": [
+        0.26993465423583984,
+        0.26993465423583984,
+        0.26993465423583984,
+        1
+      ],
+      "metallic": 0.5138888955116272,
+      "roughness": 0.3611111044883728,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 32,
+      "name": "bread",
+      "color": [
+        0.8000000715255737,
+        0.3504791259765625,
+        0.09973486512899399,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 33,
+      "name": "green",
+      "color": [
+        0.1278112679719925,
+        0.17582467198371887,
+        0.014584925025701523,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 34,
+      "name": "eye back.001",
+      "color": [
+        0.03488440066576004,
+        0.03127382695674896,
+        0.035111185163259506,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 35,
+      "name": "redd",
+      "color": [
+        0.053447213023900986,
+        0.006079620681703091,
+        0.008566121570765972,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 36,
+      "name": "turquip",
+      "color": [
+        0.049778230488300323,
+        0.21994848549365997,
+        0.1857374608516693,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 37,
+      "name": "dark blue",
+      "color": [
+        0.005323274526745081,
+        0.07641201466321945,
+        0.028883015736937523,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 38,
+      "name": "cardboard",
+      "color": [
+        0.5324397683143616,
+        0.19971275329589844,
+        0.09176269173622131,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 39,
+      "name": "cardboard.001",
+      "color": [
+        0.38830000162124634,
+        0.13056372106075287,
+        0.05028165131807327,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 40,
+      "name": "fridge",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1
+      ],
+      "metallic": 0.2818181812763214,
+      "roughness": 0.4000000059604645,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 41,
+      "name": "broewn riug",
+      "color": [
+        0.21994833648204803,
+        0.09021523594856262,
+        0.036845266819000244,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 42,
+      "name": "Material.007",
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 43,
+      "name": "Material.001",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 44,
+      "name": "grey metallic",
+      "color": [
+        0.07641284167766571,
+        0.07641284167766571,
+        0.07641284167766571,
+        1
+      ],
+      "metallic": 0.47727271914482117,
+      "roughness": 0.34090906381607056,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 45,
+      "name": "Glass.001",
+      "metallic": 0,
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 46,
+      "name": "Lid Metal",
+      "color": [
+        0.5271153450012207,
+        0.5271151065826416,
+        0.5271152257919312,
+        1
+      ],
+      "metallic": 0.8787878751754761,
+      "roughness": 0.2070707082748413,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 47,
+      "name": "DB_Apps&Tech_101_14",
+      "roughness": 0.2000000923871994,
+      "baseColorTexture": 5,
+      "normalTexture": 4
+    },
+    {
+      "i": 48,
+      "name": "DB_Apps&Tech_101_03",
+      "color": [
+        0.010017734952270985,
+        0.010017734952270985,
+        0.010017734952270985,
+        1
+      ],
+      "metallic": 0.09999999403953552,
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 49,
+      "name": "DB_Apps&Tech_101_04",
+      "color": [
+        0.033095624297857285,
+        0.033095624297857285,
+        0.033095624297857285,
+        1
+      ],
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 50,
+      "name": "DB_Apps&Tech_101_14.001",
+      "roughness": 0.2000000923871994,
+      "baseColorTexture": 9,
+      "normalTexture": 8
+    },
+    {
+      "i": 51,
+      "name": "DB_Apps&Tech_101_16",
+      "roughness": 0,
+      "baseColorTexture": 11,
+      "normalTexture": null
+    },
+    {
+      "i": 52,
+      "name": "DB_Apps&Tech_101_07",
+      "color": [
+        0,
+        0,
+        0,
+        0.10000002384185791
+      ],
+      "metallic": 0.5409090518951416,
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 53,
+      "name": "DB_Apps&Tech_101_08",
+      "color": [
+        0.016321679577231407,
+        0.016321679577231407,
+        0.016321679577231407,
+        1
+      ],
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 54,
+      "name": "DB_Apps&Tech_101_09",
+      "color": [
+        0.9803922772407532,
+        0.9803922772407532,
+        0.9803922772407532,
+        1
+      ],
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 55,
+      "name": "DB_Apps&Tech_101_10",
+      "color": [
+        0.3294117748737335,
+        0.24313727021217346,
+        0.14509804546833038,
+        1
+      ],
+      "roughness": 0.127593994140625,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 56,
+      "name": "DB_Apps&Tech_101_11",
+      "color": [
+        0.8196079730987549,
+        0,
+        0,
+        1
+      ],
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 57,
+      "name": "DB_Apps&Tech_101_12",
+      "color": [
+        0.010020701214671135,
+        0.010020701214671135,
+        0.010020701214671135,
+        1
+      ],
+      "roughness": 0.6636414527893066,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 58,
+      "name": "DB_Apps&Tech_101_13",
+      "color": [
+        0.8823530673980713,
+        0.7686275839805603,
+        0,
+        1
+      ],
+      "roughness": 0,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 59,
+      "name": "bulb",
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 60,
+      "name": "Material.006",
+      "color": [
+        0.10429280996322632,
+        0.10429280996322632,
+        0.10429280996322632,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 61,
+      "name": "Glass",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 62,
+      "name": "Metal Cover",
+      "metallic": 0.75,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 63,
+      "name": "Label",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 64,
+      "name": "Fill",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 65,
+      "name": "moniter",
+      "color": [
+        0.8956091403961182,
+        0.9035221934318542,
+        0.5980148911476135,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 66,
+      "name": "eye back.002",
+      "color": [
+        0.03488440066576004,
+        0.03127382695674896,
+        0.035111185163259506,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 67,
+      "name": "wire_029029029",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 68,
+      "name": "file.001",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 69,
+      "name": "filee",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 70,
+      "name": "file",
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 71,
+      "name": "rug f",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 72,
+      "name": "new ruug",
+      "color": [
+        0.018615838140249252,
+        0.05086483433842659,
+        0.0023780290503054857,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 73,
+      "name": "rug",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 74,
+      "name": "rug.001",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 75,
+      "name": "rugg",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 76,
+      "name": "metallic_k",
+      "color": [
+        0.4798411428928375,
+        0.4798411428928375,
+        0.4798411428928375,
+        1
+      ],
+      "roughness": 0.37037038803100586,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 77,
+      "name": "Material.004",
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 78,
+      "name": "eye back",
+      "color": [
+        0.02095806412398815,
+        0.018924307078123093,
+        0.021086066961288452,
+        1
+      ],
+      "metallic": 0.3055555522441864,
+      "roughness": 0.3472222089767456,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 79,
+      "name": "lamp",
+      "color": [
+        0.021090427413582802,
+        0.021090427413582802,
+        0.021090427413582802,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.34090909361839294,
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 80,
+      "name": "neechy lamp",
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "baseColorTexture": null,
+      "normalTexture": null
+    },
+    {
+      "i": 81,
+      "name": "cardboard.002",
+      "color": [
+        0.38830000162124634,
+        0.1460799276828766,
+        0.06486889719963074,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.5,
+      "baseColorTexture": null,
+      "normalTexture": null
+    }
+  ],
+  "shared": [
+    {
+      "i": 0,
+      "name": "black mouse",
+      "meshes": [
+        "7.0.609.0",
+        "Circle.001",
+        "Circle.003",
+        "Circle.004",
+        "Circle.005",
+        "Circle.006",
+        "Circle.007",
+        "Circle.008",
+        "Cube.031",
+        "Cube.009",
+        "Cube.088"
+      ],
+      "nodes": [
+        "7.0.609.0",
+        "Circle.001",
+        "Circle.002",
+        "Circle.003",
+        "Circle.004",
+        "Circle.005",
+        "Circle.006",
+        "Circle.007",
+        "Cube.027",
+        "Cube.029",
+        "Cube.087"
+      ],
+      "uniqueMeshes": [
+        "7.0.609.0",
+        "Circle.001",
+        "Circle.003",
+        "Circle.004",
+        "Circle.005",
+        "Circle.006",
+        "Circle.007",
+        "Circle.008",
+        "Cube.031",
+        "Cube.009",
+        "Cube.088"
+      ],
+      "uniqueNodes": [
+        "7.0.609.0",
+        "Circle.001",
+        "Circle.002",
+        "Circle.003",
+        "Circle.004",
+        "Circle.005",
+        "Circle.006",
+        "Circle.007",
+        "Cube.027",
+        "Cube.029",
+        "Cube.087"
+      ]
+    },
+    {
+      "i": 1,
+      "name": "wall",
+      "meshes": [
+        "bed",
+        "Cube.032"
+      ],
+      "nodes": [
+        "bed",
+        "Cube.004"
+      ],
+      "uniqueMeshes": [
+        "bed",
+        "Cube.032"
+      ],
+      "uniqueNodes": [
+        "bed",
+        "Cube.004"
+      ]
+    },
+    {
+      "i": 5,
+      "name": "cactus_gasteria",
+      "meshes": [
+        "Mesh.002",
+        "Mesh.007",
+        "Mesh.011"
+      ],
+      "nodes": [
+        "GA_cactus",
+        "GA_cactus.001",
+        "GA_cactus.002"
+      ],
+      "uniqueMeshes": [
+        "Mesh.002",
+        "Mesh.007",
+        "Mesh.011"
+      ],
+      "uniqueNodes": [
+        "GA_cactus",
+        "GA_cactus.001",
+        "GA_cactus.002"
+      ]
+    },
+    {
+      "i": 6,
+      "name": "clay_pot",
+      "meshes": [
+        "Mesh.003",
+        "Mesh.008",
+        "Mesh.012",
+        "Cube.027",
+        "Cube.071",
+        "Cube.085"
+      ],
+      "nodes": [
+        "GA_clay_pot",
+        "GA_clay_pot.001",
+        "GA_clay_pot.002",
+        "Cube.065",
+        "Cube.070",
+        "Cube.084"
+      ],
+      "uniqueMeshes": [
+        "Mesh.003",
+        "Mesh.008",
+        "Mesh.012",
+        "Cube.027",
+        "Cube.071",
+        "Cube.085"
+      ],
+      "uniqueNodes": [
+        "GA_clay_pot",
+        "GA_clay_pot.001",
+        "GA_clay_pot.002",
+        "Cube.065",
+        "Cube.070",
+        "Cube.084"
+      ]
+    },
+    {
+      "i": 7,
+      "name": "ground_pot5",
+      "meshes": [
+        "Mesh.004",
+        "Mesh.009",
+        "Mesh.013"
+      ],
+      "nodes": [
+        "GA_ground_pot",
+        "GA_ground_pot.001",
+        "GA_ground_pot.002"
+      ],
+      "uniqueMeshes": [
+        "Mesh.004",
+        "Mesh.009",
+        "Mesh.013"
+      ],
+      "uniqueNodes": [
+        "GA_ground_pot",
+        "GA_ground_pot.001",
+        "GA_ground_pot.002"
+      ]
+    },
+    {
+      "i": 8,
+      "name": "stones",
+      "meshes": [
+        "Mesh",
+        "Mesh.005",
+        "Mesh.010"
+      ],
+      "nodes": [
+        "GA_stones",
+        "GA_stones.001",
+        "GA_stones.002"
+      ],
+      "uniqueMeshes": [
+        "Mesh",
+        "Mesh.005",
+        "Mesh.010"
+      ],
+      "uniqueNodes": [
+        "GA_stones",
+        "GA_stones.001",
+        "GA_stones.002"
+      ]
+    },
+    {
+      "i": 9,
+      "name": "vase_gasteria",
+      "meshes": [
+        "Mesh.001",
+        "Mesh.006"
+      ],
+      "nodes": [
+        "GA_vase",
+        "GA_vase.001"
+      ],
+      "uniqueMeshes": [
+        "Mesh.001",
+        "Mesh.006"
+      ],
+      "uniqueNodes": [
+        "GA_vase",
+        "GA_vase.001"
+      ]
+    },
+    {
+      "i": 11,
+      "name": "grey",
+      "meshes": [
+        "Circle",
+        "Cube.034"
+      ],
+      "nodes": [
+        "Circle",
+        "Cube.005"
+      ],
+      "uniqueMeshes": [
+        "Circle",
+        "Cube.034"
+      ],
+      "uniqueNodes": [
+        "Circle",
+        "Cube.005"
+      ]
+    },
+    {
+      "i": 12,
+      "name": "red.002",
+      "meshes": [
+        "Circle.009",
+        "Cube.038",
+        "Cube.004",
+        "Cube.075",
+        "Cube.108"
+      ],
+      "nodes": [
+        "Circle.008",
+        "Cube.026",
+        "Cube.060",
+        "Cube.074",
+        "Cube.102"
+      ],
+      "uniqueMeshes": [
+        "Circle.009",
+        "Cube.038",
+        "Cube.004",
+        "Cube.075",
+        "Cube.108"
+      ],
+      "uniqueNodes": [
+        "Circle.008",
+        "Cube.026",
+        "Cube.060",
+        "Cube.074",
+        "Cube.102"
+      ]
+    },
+    {
+      "i": 13,
+      "name": "b_pvc",
+      "meshes": [
+        "Circle.009",
+        "Cube.011",
+        "Plane.019",
+        "Plane.154",
+        "Plane.155",
+        "Plane.156",
+        "Cylinder.005",
+        "Text.001",
+        "Text.002"
+      ],
+      "nodes": [
+        "Circle.008",
+        "Cube.031",
+        "Plane.018",
+        "Plane.153",
+        "Plane.154",
+        "Plane.155",
+        "plastic_bottom",
+        "Text.001",
+        "Text.002"
+      ],
+      "uniqueMeshes": [
+        "Circle.009",
+        "Cube.011",
+        "Plane.019",
+        "Plane.154",
+        "Plane.155",
+        "Plane.156",
+        "Cylinder.005",
+        "Text.001",
+        "Text.002"
+      ],
+      "uniqueNodes": [
+        "Circle.008",
+        "Cube.031",
+        "Plane.018",
+        "Plane.153",
+        "Plane.154",
+        "Plane.155",
+        "plastic_bottom",
+        "Text.001",
+        "Text.002"
+      ]
+    },
+    {
+      "i": 15,
+      "name": "brown",
+      "meshes": [
+        "Cube.001",
+        "Cube.014",
+        "Cube.015",
+        "Cube.016",
+        "Cube.017",
+        "Cube.018",
+        "Cube.019",
+        "Cube.020",
+        "Cube.021",
+        "Cube.022",
+        "Cube.036",
+        "Cube.039",
+        "Cube.079",
+        "Cube.095",
+        "Plane"
+      ],
+      "nodes": [
+        "Cube.001",
+        "Cube.012",
+        "Cube.013",
+        "Cube.014",
+        "Cube.015",
+        "Cube.016",
+        "Cube.017",
+        "Cube.018",
+        "Cube.019",
+        "Cube.020",
+        "Cube.023",
+        "Cube.033",
+        "Cube.078",
+        "Cube.092",
+        "Plane"
+      ],
+      "uniqueMeshes": [
+        "Cube.001",
+        "Cube.014",
+        "Cube.015",
+        "Cube.016",
+        "Cube.017",
+        "Cube.018",
+        "Cube.019",
+        "Cube.020",
+        "Cube.021",
+        "Cube.022",
+        "Cube.036",
+        "Cube.039",
+        "Cube.079",
+        "Cube.095",
+        "Plane"
+      ],
+      "uniqueNodes": [
+        "Cube.001",
+        "Cube.012",
+        "Cube.013",
+        "Cube.014",
+        "Cube.015",
+        "Cube.016",
+        "Cube.017",
+        "Cube.018",
+        "Cube.019",
+        "Cube.020",
+        "Cube.023",
+        "Cube.033",
+        "Cube.078",
+        "Cube.092",
+        "Plane"
+      ]
+    },
+    {
+      "i": 17,
+      "name": "wood table",
+      "meshes": [
+        "Cube.003",
+        "Cube.026",
+        "Cube.077"
+      ],
+      "nodes": [
+        "Cube.003",
+        "Cube.024",
+        "Cube.076"
+      ],
+      "uniqueMeshes": [
+        "Cube.003",
+        "Cube.026",
+        "Cube.077"
+      ],
+      "uniqueNodes": [
+        "Cube.003",
+        "Cube.024",
+        "Cube.076"
+      ]
+    },
+    {
+      "i": 18,
+      "name": "white",
+      "meshes": [
+        "Cube.034",
+        "Cube.030",
+        "Cube.038",
+        "Cube.039",
+        "Cube.040",
+        "Cube.041",
+        "Cube.004",
+        "Cube.005",
+        "Cube.023",
+        "Cube.024",
+        "Cube.025",
+        "Cube.027",
+        "Cube.028",
+        "Cube.069",
+        "Cube.071",
+        "Cube.073",
+        "Cube.074",
+        "Cube.075",
+        "Cube.077",
+        "Cube.078",
+        "Cube.079",
+        "Cube.084",
+        "Cube.085",
+        "Cube.086",
+        "Cube.087",
+        "Cube.089",
+        "Cube.091",
+        "Cube.092",
+        "Cube.093",
+        "Cube.103",
+        "Cube.104",
+        "Cube.105",
+        "Cube.106",
+        "Cube.107",
+        "Plane.019"
+      ],
+      "nodes": [
+        "Cube.005",
+        "Cube.011",
+        "Cube.026",
+        "Cube.033",
+        "Cube.034",
+        "Cube.035",
+        "Cube.060",
+        "Cube.061",
+        "Cube.062",
+        "Cube.063",
+        "Cube.064",
+        "Cube.065",
+        "Cube.066",
+        "Cube.068",
+        "Cube.070",
+        "Cube.072",
+        "Cube.073",
+        "Cube.074",
+        "Cube.076",
+        "Cube.077",
+        "Cube.078",
+        "Cube.083",
+        "Cube.084",
+        "Cube.085",
+        "Cube.086",
+        "Cube.088",
+        "Cube.089",
+        "Cube.090",
+        "Cube.091",
+        "Cube.097",
+        "Cube.098",
+        "Cube.099",
+        "Cube.100",
+        "Cube.101",
+        "Plane.018"
+      ],
+      "uniqueMeshes": [
+        "Cube.034",
+        "Cube.030",
+        "Cube.038",
+        "Cube.039",
+        "Cube.040",
+        "Cube.041",
+        "Cube.004",
+        "Cube.005",
+        "Cube.023",
+        "Cube.024",
+        "Cube.025",
+        "Cube.027",
+        "Cube.028",
+        "Cube.069",
+        "Cube.071",
+        "Cube.073",
+        "Cube.074",
+        "Cube.075",
+        "Cube.077",
+        "Cube.078",
+        "Cube.079",
+        "Cube.084",
+        "Cube.085",
+        "Cube.086",
+        "Cube.087",
+        "Cube.089",
+        "Cube.091",
+        "Cube.092",
+        "Cube.093",
+        "Cube.103",
+        "Cube.104",
+        "Cube.105",
+        "Cube.106",
+        "Cube.107",
+        "Plane.019"
+      ],
+      "uniqueNodes": [
+        "Cube.005",
+        "Cube.011",
+        "Cube.026",
+        "Cube.033",
+        "Cube.034",
+        "Cube.035",
+        "Cube.060",
+        "Cube.061",
+        "Cube.062",
+        "Cube.063",
+        "Cube.064",
+        "Cube.065",
+        "Cube.066",
+        "Cube.068",
+        "Cube.070",
+        "Cube.072",
+        "Cube.073",
+        "Cube.074",
+        "Cube.076",
+        "Cube.077",
+        "Cube.078",
+        "Cube.083",
+        "Cube.084",
+        "Cube.085",
+        "Cube.086",
+        "Cube.088",
+        "Cube.089",
+        "Cube.090",
+        "Cube.091",
+        "Cube.097",
+        "Cube.098",
+        "Cube.099",
+        "Cube.100",
+        "Cube.101",
+        "Plane.018"
+      ]
+    },
+    {
+      "i": 19,
+      "name": "choti table",
+      "meshes": [
+        "Cube.006",
+        "Cube.013",
+        "Cube.068"
+      ],
+      "nodes": [
+        "Cube.006",
+        "Cube.010",
+        "Cube.067"
+      ],
+      "uniqueMeshes": [
+        "Cube.006",
+        "Cube.013",
+        "Cube.068"
+      ],
+      "uniqueNodes": [
+        "Cube.006",
+        "Cube.010",
+        "Cube.067"
+      ]
+    },
+    {
+      "meshes": [
+        "Cube.007",
+        "Cube.008",
+        "Cube.072"
+      ],
+      "nodes": [
+        "Cube.007",
+        "Cube.008",
+        "Cube.071"
+      ],
+      "uniqueMeshes": [
+        "Cube.007",
+        "Cube.008",
+        "Cube.072"
+      ],
+      "uniqueNodes": [
+        "Cube.007",
+        "Cube.008",
+        "Cube.071"
+      ]
+    },
+    {
+      "i": 26,
+      "name": "blue",
+      "meshes": [
+        "Cube.035",
+        "Cube.024",
+        "Cube.078",
+        "Cube.080",
+        "Cube.087",
+        "Cube.091",
+        "Cube.093",
+        "Cube.096"
+      ],
+      "nodes": [
+        "Cube.022",
+        "Cube.063",
+        "Cube.077",
+        "Cube.079",
+        "Cube.086",
+        "Cube.089",
+        "Cube.091",
+        "Cube.093"
+      ],
+      "uniqueMeshes": [
+        "Cube.035",
+        "Cube.024",
+        "Cube.078",
+        "Cube.080",
+        "Cube.087",
+        "Cube.091",
+        "Cube.093",
+        "Cube.096"
+      ],
+      "uniqueNodes": [
+        "Cube.022",
+        "Cube.063",
+        "Cube.077",
+        "Cube.079",
+        "Cube.086",
+        "Cube.089",
+        "Cube.091",
+        "Cube.093"
+      ]
+    },
+    {
+      "i": 27,
+      "name": "red.001",
+      "meshes": [
+        "Cube.037",
+        "Cube.005",
+        "Cube.069",
+        "Cube.082",
+        "Cube.089",
+        "Cube.120"
+      ],
+      "nodes": [
+        "Cube.025",
+        "Cube.061",
+        "Cube.068",
+        "Cube.081",
+        "Cube.088",
+        "headphone"
+      ],
+      "uniqueMeshes": [
+        "Cube.037",
+        "Cube.005",
+        "Cube.069",
+        "Cube.082",
+        "Cube.089",
+        "Cube.120"
+      ],
+      "uniqueNodes": [
+        "Cube.025",
+        "Cube.061",
+        "Cube.068",
+        "Cube.081",
+        "Cube.088",
+        "headphone"
+      ]
+    },
+    {
+      "i": 30,
+      "name": "white computer",
+      "meshes": [
+        "Cube.011",
+        "Cube.081"
+      ],
+      "nodes": [
+        "Cube.031",
+        "Cube.080"
+      ],
+      "uniqueMeshes": [
+        "Cube.011",
+        "Cube.081"
+      ],
+      "uniqueNodes": [
+        "Cube.031",
+        "Cube.080"
+      ]
+    },
+    {
+      "i": 32,
+      "name": "bread",
+      "meshes": [
+        "Cube.040",
+        "Cube.028"
+      ],
+      "nodes": [
+        "Cube.034",
+        "Cube.066"
+      ],
+      "uniqueMeshes": [
+        "Cube.040",
+        "Cube.028"
+      ],
+      "uniqueNodes": [
+        "Cube.034",
+        "Cube.066"
+      ]
+    },
+    {
+      "i": 33,
+      "name": "green",
+      "meshes": [
+        "Cube.041",
+        "Cube.081",
+        "Cube.083",
+        "Cube.102"
+      ],
+      "nodes": [
+        "Cube.035",
+        "Cube.080",
+        "Cube.082",
+        "Cube.095"
+      ],
+      "uniqueMeshes": [
+        "Cube.041",
+        "Cube.081",
+        "Cube.083",
+        "Cube.102"
+      ],
+      "uniqueNodes": [
+        "Cube.035",
+        "Cube.080",
+        "Cube.082",
+        "Cube.095"
+      ]
+    },
+    {
+      "i": 34,
+      "name": "eye back.001",
+      "meshes": [
+        "Cube.042",
+        "Plane.013"
+      ],
+      "nodes": [
+        "Cube.036",
+        "Plane.013"
+      ],
+      "uniqueMeshes": [
+        "Cube.042",
+        "Plane.013"
+      ],
+      "uniqueNodes": [
+        "Cube.036",
+        "Plane.013"
+      ]
+    },
+    {
+      "i": 36,
+      "name": "turquip",
+      "meshes": [
+        "Cube.025",
+        "Cube.076",
+        "Cube.086",
+        "Cube.097"
+      ],
+      "nodes": [
+        "Cube.064",
+        "Cube.075",
+        "Cube.085",
+        "Cube.094"
+      ],
+      "uniqueMeshes": [
+        "Cube.025",
+        "Cube.076",
+        "Cube.086",
+        "Cube.097"
+      ],
+      "uniqueNodes": [
+        "Cube.064",
+        "Cube.075",
+        "Cube.085",
+        "Cube.094"
+      ]
+    },
+    {
+      "i": 37,
+      "name": "dark blue",
+      "meshes": [
+        "Cube.070",
+        "Cube.084",
+        "Cube.092"
+      ],
+      "nodes": [
+        "Cube.069",
+        "Cube.083",
+        "Cube.090"
+      ],
+      "uniqueMeshes": [
+        "Cube.070",
+        "Cube.084",
+        "Cube.092"
+      ],
+      "uniqueNodes": [
+        "Cube.069",
+        "Cube.083",
+        "Cube.090"
+      ]
+    },
+    {
+      "i": 38,
+      "name": "cardboard",
+      "meshes": [
+        "Cube.073",
+        "uploads_files_1979612_cardboar_box_pack.006"
+      ],
+      "nodes": [
+        "Cube.072",
+        "uploads_files_1979612_cardboar_box_pack.005"
+      ],
+      "uniqueMeshes": [
+        "Cube.073",
+        "uploads_files_1979612_cardboar_box_pack.006"
+      ],
+      "uniqueNodes": [
+        "Cube.072",
+        "uploads_files_1979612_cardboar_box_pack.005"
+      ]
+    },
+    {
+      "i": 39,
+      "name": "cardboard.001",
+      "meshes": [
+        "Cube.074",
+        "Plane.019",
+        "uploads_files_1979612_cardboar_box_pack",
+        "uploads_files_1979612_cardboar_box_pack.001"
+      ],
+      "nodes": [
+        "Cube.073",
+        "Plane.018",
+        "uploads_files_1979612_cardboar_box_pack",
+        "uploads_files_1979612_cardboar_box_pack.001"
+      ],
+      "uniqueMeshes": [
+        "Cube.074",
+        "Plane.019",
+        "uploads_files_1979612_cardboar_box_pack",
+        "uploads_files_1979612_cardboar_box_pack.001"
+      ],
+      "uniqueNodes": [
+        "Cube.073",
+        "Plane.018",
+        "uploads_files_1979612_cardboar_box_pack",
+        "uploads_files_1979612_cardboar_box_pack.001"
+      ]
+    },
+    {
+      "i": 59,
+      "name": "bulb",
+      "meshes": [
+        "Icosphere",
+        "Icosphere.021"
+      ],
+      "nodes": [
+        "Icosphere",
+        "Icosphere.001"
+      ],
+      "uniqueMeshes": [
+        "Icosphere",
+        "Icosphere.021"
+      ],
+      "uniqueNodes": [
+        "Icosphere",
+        "Icosphere.001"
+      ]
+    },
+    {
+      "i": 60,
+      "name": "Material.006",
+      "meshes": [
+        "Icosphere",
+        "Icosphere.021"
+      ],
+      "nodes": [
+        "Icosphere",
+        "Icosphere.001"
+      ],
+      "uniqueMeshes": [
+        "Icosphere",
+        "Icosphere.021"
+      ],
+      "uniqueNodes": [
+        "Icosphere",
+        "Icosphere.001"
+      ]
+    },
+    {
+      "i": 73,
+      "name": "rug",
+      "meshes": [
+        "Plane.155",
+        "Plane.157"
+      ],
+      "nodes": [
+        "Plane.154",
+        "Plane.156"
+      ],
+      "uniqueMeshes": [
+        "Plane.155",
+        "Plane.157"
+      ],
+      "uniqueNodes": [
+        "Plane.154",
+        "Plane.156"
+      ]
+    },
+    {
+      "i": 78,
+      "name": "eye back",
+      "meshes": [
+        "Cube.090",
+        "Cube.043"
+      ],
+      "nodes": [
+        "speaker",
+        "speaker.001"
+      ],
+      "uniqueMeshes": [
+        "Cube.090",
+        "Cube.043"
+      ],
+      "uniqueNodes": [
+        "speaker",
+        "speaker.001"
+      ]
+    },
+    {
+      "i": 81,
+      "name": "cardboard.002",
+      "meshes": [
+        "uploads_files_1979612_cardboar_box_pack.002",
+        "uploads_files_1979612_cardboar_box_pack.005"
+      ],
+      "nodes": [
+        "uploads_files_1979612_cardboar_box_pack.002",
+        "uploads_files_1979612_cardboar_box_pack.004"
+      ],
+      "uniqueMeshes": [
+        "uploads_files_1979612_cardboar_box_pack.002",
+        "uploads_files_1979612_cardboar_box_pack.005"
+      ],
+      "uniqueNodes": [
+        "uploads_files_1979612_cardboar_box_pack.002",
+        "uploads_files_1979612_cardboar_box_pack.004"
+      ]
+    }
+  ],
+  "interestMeshes": [
+    {
+      "mi": 1,
+      "name": "bed",
+      "primitives": [
+        {
+          "material": 1,
+          "materialName": "wall",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "bed",
+          "ni": 1,
+          "t": [
+            -1.043102741241455,
+            -1.5798125267028809,
+            1.8299505710601807
+          ],
+          "s": [
+            0.38415706157684326,
+            0.34840744733810425,
+            0.34840744733810425
+          ],
+          "r": [
+            0.70710688829422,
+            0,
+            0,
+            0.7071066498756409
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 2,
+      "name": "bed.001",
+      "primitives": [
+        {
+          "material": 2,
+          "materialName": "Material.005",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "bed.001",
+          "ni": 2,
+          "t": [
+            -1.043102741241455,
+            -1.5798125267028809,
+            1.8299505710601807
+          ],
+          "s": [
+            0.38415706157684326,
+            0.34840744733810425,
+            0.34840744733810425
+          ],
+          "r": [
+            0.70710688829422,
+            0,
+            0,
+            0.7071066498756409
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 3,
+      "name": "bed.002",
+      "primitives": [
+        {
+          "material": 3,
+          "materialName": "room_old_house_MSH8_takht_room_obj_pasted__lambert5",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "bed.002",
+          "ni": 3,
+          "t": [
+            -1.043102741241455,
+            -1.5798125267028809,
+            1.8299505710601807
+          ],
+          "s": [
+            0.38415706157684326,
+            0.34840744733810425,
+            0.34840744733810425
+          ],
+          "r": [
+            0.70710688829422,
+            0,
+            0,
+            0.7071066498756409
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 4,
+      "name": "bed.003",
+      "primitives": [
+        {
+          "material": 4,
+          "materialName": "bed",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "bed.003",
+          "ni": 4,
+          "t": [
+            -1.043102741241455,
+            -1.5798125267028809,
+            1.8299505710601807
+          ],
+          "s": [
+            0.38415706157684326,
+            0.34840744733810425,
+            0.34840744733810425
+          ],
+          "r": [
+            0.70710688829422,
+            0,
+            0,
+            0.7071066498756409
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 6,
+      "name": "Mesh.003",
+      "primitives": [
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_clay_pot",
+          "ni": 6,
+          "t": [
+            0,
+            -0.0000022400372472475283,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 7,
+      "name": "Mesh.004",
+      "primitives": [
+        {
+          "material": 7,
+          "materialName": "ground_pot5",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_ground_pot",
+          "ni": 7,
+          "t": [
+            0,
+            -0.0000022400372472475283,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 11,
+      "name": "Mesh.008",
+      "primitives": [
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_clay_pot.001",
+          "ni": 13,
+          "t": [
+            0,
+            -0.0000022400372472475283,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 12,
+      "name": "Mesh.009",
+      "primitives": [
+        {
+          "material": 7,
+          "materialName": "ground_pot5",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_ground_pot.001",
+          "ni": 14,
+          "t": [
+            0,
+            -0.0000022400372472475283,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 16,
+      "name": "Mesh.012",
+      "primitives": [
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_clay_pot.002",
+          "ni": 20,
+          "t": [
+            0,
+            -0.0000021370124159147963,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 17,
+      "name": "Mesh.013",
+      "primitives": [
+        {
+          "material": 7,
+          "materialName": "ground_pot5",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "GA_ground_pot.002",
+          "ni": 21,
+          "t": [
+            0,
+            -0.0000021370124159147963,
+            0.000003306598046037834
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 19,
+      "name": "Circle.002",
+      "primitives": [
+        {
+          "material": 10,
+          "materialName": "ofis_cher.002",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "chairCombined.highPoly",
+          "ni": 25,
+          "t": [
+            -1.3900947570800781,
+            -1.9528603553771973,
+            -0.39391979575157166
+          ],
+          "s": [
+            1.752413272857666,
+            1.752413272857666,
+            1.752413272857666
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 33,
+      "name": "Cube.032",
+      "primitives": [
+        {
+          "material": 1,
+          "materialName": "wall",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.004",
+          "ni": 39,
+          "t": [
+            -2.429288148880005,
+            -1.658637285232544,
+            -2.2254526615142822
+          ],
+          "s": [
+            0.34792599081993103,
+            0.24117131531238556,
+            0.37809088826179504
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 34,
+      "name": "Cube.034",
+      "primitives": [
+        {
+          "material": 11,
+          "materialName": "grey",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.005",
+          "ni": 40,
+          "t": [
+            -2.283450126647949,
+            -1.3121228218078613,
+            -2.1279101371765137
+          ],
+          "s": [
+            0.1988634169101715,
+            0.10792945325374603,
+            0.2749547064304352
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 35,
+      "name": "Cube.006",
+      "primitives": [
+        {
+          "material": 19,
+          "materialName": "choti table",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.006",
+          "ni": 41,
+          "t": [
+            1.583232045173645,
+            -1.2239457368850708,
+            1.930375337600708
+          ],
+          "s": [
+            0.8037114143371582,
+            0.7286516427993774,
+            0.5858848094940186
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 38,
+      "name": "Cube.013",
+      "primitives": [
+        {
+          "material": 19,
+          "materialName": "choti table",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.010",
+          "ni": 45,
+          "t": [
+            1.3901546001434326,
+            -1.7765311002731323,
+            -0.9943811297416687
+          ],
+          "s": [
+            0.3031252324581146,
+            0.015677638351917267,
+            0.17191876471042633
+          ],
+          "r": [
+            -0.5381574630737305,
+            -0.4586791396141052,
+            -0.4586791694164276,
+            0.5381575226783752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 39,
+      "name": "Cube.030",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.011",
+          "ni": 46,
+          "t": [
+            2.4275102615356445,
+            -0.055893123149871826,
+            -2.6655893325805664
+          ],
+          "s": [
+            0.12846294045448303,
+            0.12846294045448303,
+            0.00717792846262455
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 53,
+      "name": "Cube.038",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 12,
+          "materialName": "red.002",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.026",
+          "ni": 60,
+          "t": [
+            -2.6703853607177734,
+            1.296589732170105,
+            -1.9240784645080566
+          ],
+          "s": [
+            0.11346623301506042,
+            0.14727476239204407,
+            0.02685731090605259
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 58,
+      "name": "Cube.011",
+      "primitives": [
+        {
+          "material": 30,
+          "materialName": "white computer",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 13,
+          "materialName": "b_pvc",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.031",
+          "ni": 65,
+          "t": [
+            -2.5895323753356934,
+            -0.11737421154975891,
+            -0.351120263338089
+          ],
+          "s": [
+            0.02390158735215664,
+            0.43174314498901367,
+            0.7142554521560669
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 60,
+      "name": "Cube.039",
+      "primitives": [
+        {
+          "material": 15,
+          "materialName": "brown",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.033",
+          "ni": 67,
+          "t": [
+            -2.6703853607177734,
+            1.3451519012451172,
+            -1.9871606826782227
+          ],
+          "s": [
+            0.11346623301506042,
+            0.1979246735572815,
+            0.03082807920873165
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 61,
+      "name": "Cube.040",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 32,
+          "materialName": "bread",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.034",
+          "ni": 68,
+          "t": [
+            -2.6703853607177734,
+            1.2850911617279053,
+            -2.0716652870178223
+          ],
+          "s": [
+            0.11346623301506042,
+            0.13732211291790009,
+            0.04432663321495056
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 62,
+      "name": "Cube.041",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 33,
+          "materialName": "green",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.035",
+          "ni": 69,
+          "t": [
+            -2.6703853607177734,
+            1.311977744102478,
+            -2.1468312740325928
+          ],
+          "s": [
+            0.11346623301506042,
+            0.16233311593532562,
+            0.028638353571295738
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 64,
+      "name": "Cube.004",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 12,
+          "materialName": "red.002",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.060",
+          "ni": 71,
+          "t": [
+            -2.6703853607177734,
+            1.2850911617279053,
+            -1.2317991256713867
+          ],
+          "s": [
+            0.11346623301506042,
+            0.13732211291790009,
+            0.06496141850948334
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 65,
+      "name": "Cube.005",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 27,
+          "materialName": "red.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.061",
+          "ni": 72,
+          "t": [
+            -2.6703853607177734,
+            1.311977744102478,
+            -1.3406586647033691
+          ],
+          "s": [
+            0.11346623301506042,
+            0.16233311593532562,
+            0.0404423326253891
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 66,
+      "name": "Cube.023",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 35,
+          "materialName": "redd",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.062",
+          "ni": 73,
+          "t": [
+            -2.6703853607177734,
+            1.296589732170105,
+            -1.4184672832489014
+          ],
+          "s": [
+            0.11346623301506042,
+            0.14727476239204407,
+            0.02685731090605259
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 67,
+      "name": "Cube.024",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 26,
+          "materialName": "blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.063",
+          "ni": 74,
+          "t": [
+            -2.6703853607177734,
+            1.3451519012451172,
+            -1.4815495014190674
+          ],
+          "s": [
+            0.11346623301506042,
+            0.1979246735572815,
+            0.03082807920873165
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 68,
+      "name": "Cube.025",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 36,
+          "materialName": "turquip",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.064",
+          "ni": 75,
+          "t": [
+            -2.6703853607177734,
+            1.2850911617279053,
+            -1.566054344177246
+          ],
+          "s": [
+            0.11346623301506042,
+            0.13732211291790009,
+            0.04432663321495056
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 69,
+      "name": "Cube.027",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.065",
+          "ni": 76,
+          "t": [
+            -2.6703853607177734,
+            1.311977744102478,
+            -1.6412203311920166
+          ],
+          "s": [
+            0.11346623301506042,
+            0.16233311593532562,
+            0.028638353571295738
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 70,
+      "name": "Cube.028",
+      "primitives": [
+        {
+          "material": 32,
+          "materialName": "bread",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.066",
+          "ni": 77,
+          "t": [
+            0.6843575239181519,
+            -1.2004084587097168,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.12219730764627457,
+            0.05780649557709694
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 71,
+      "name": "Cube.068",
+      "primitives": [
+        {
+          "material": 19,
+          "materialName": "choti table",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.067",
+          "ni": 78,
+          "t": [
+            0.7812271118164062,
+            -1.1764832735061646,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.0359879694879055
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 72,
+      "name": "Cube.069",
+      "primitives": [
+        {
+          "material": 27,
+          "materialName": "red.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.068",
+          "ni": 79,
+          "t": [
+            0.8504657745361328,
+            -1.1901763677597046,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.13105376064777374,
+            0.023899218067526817
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 74,
+      "name": "Cube.071",
+      "primitives": [
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.070",
+          "ni": 81,
+          "t": [
+            0.981797456741333,
+            -1.2004084587097168,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.12219730764627457,
+            0.039444450289011
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 76,
+      "name": "Cube.073",
+      "primitives": [
+        {
+          "material": 38,
+          "materialName": "cardboard",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.072",
+          "ni": 83,
+          "t": [
+            -0.14655056595802307,
+            -1.6523903608322144,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.12219730764627457,
+            0.05780649557709694
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 77,
+      "name": "Cube.074",
+      "primitives": [
+        {
+          "material": 39,
+          "materialName": "cardboard.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.073",
+          "ni": 84,
+          "t": [
+            -0.0496809184551239,
+            -1.628465175628662,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.0359879694879055
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 78,
+      "name": "Cube.075",
+      "primitives": [
+        {
+          "material": 12,
+          "materialName": "red.002",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.074",
+          "ni": 85,
+          "t": [
+            0.019557714462280273,
+            -1.6421582698822021,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.13105376064777374,
+            0.023899218067526817
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 80,
+      "name": "Cube.077",
+      "primitives": [
+        {
+          "material": 17,
+          "materialName": "wood table",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.076",
+          "ni": 87,
+          "t": [
+            0.1508893370628357,
+            -1.6523903608322144,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.12219730764627457,
+            0.039444450289011
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 81,
+      "name": "Cube.078",
+      "primitives": [
+        {
+          "material": 26,
+          "materialName": "blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.077",
+          "ni": 88,
+          "t": [
+            0.21777647733688354,
+            -1.628465175628662,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.02548409439623356
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 82,
+      "name": "Cube.079",
+      "primitives": [
+        {
+          "material": 15,
+          "materialName": "brown",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.078",
+          "ni": 89,
+          "t": [
+            -0.968564510345459,
+            -1.628465175628662,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.02548409439623356
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 84,
+      "name": "Cube.081",
+      "primitives": [
+        {
+          "material": 33,
+          "materialName": "green",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 30,
+          "materialName": "white computer",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.080",
+          "ni": 91,
+          "t": [
+            -0.5950337052345276,
+            -1.750882863998413,
+            -2.2570502758026123
+          ],
+          "s": [
+            0.10096891969442368,
+            0.14445355534553528,
+            0.02548409439623356
+          ],
+          "r": [
+            -0.40877267718315125,
+            -0.5769791603088379,
+            -0.5769791603088379,
+            0.40877264738082886
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 87,
+      "name": "Cube.084",
+      "primitives": [
+        {
+          "material": 37,
+          "materialName": "dark blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.083",
+          "ni": 94,
+          "t": [
+            -0.4625704288482666,
+            -1.2004084587097168,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.12219730764627457,
+            0.039444450289011
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 88,
+      "name": "Cube.085",
+      "primitives": [
+        {
+          "material": 6,
+          "materialName": "clay_pot",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.084",
+          "ni": 95,
+          "t": [
+            -0.39568328857421875,
+            -1.1764832735061646,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.02548409439623356
+          ],
+          "r": [
+            0,
+            -0.7071068286895752,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 89,
+      "name": "Cube.086",
+      "primitives": [
+        {
+          "material": 36,
+          "materialName": "turquip",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.085",
+          "ni": 96,
+          "t": [
+            -0.9293274283409119,
+            -1.1764832735061646,
+            -2.178908586502075
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.02548409439623356
+          ],
+          "r": [
+            0.08637051284313202,
+            -0.7018120288848877,
+            0.08637051284313202,
+            0.7018120288848877
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 90,
+      "name": "Cube.087",
+      "primitives": [
+        {
+          "material": 26,
+          "materialName": "blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.086",
+          "ni": 97,
+          "t": [
+            0.21225601434707642,
+            -1.2976852655410767,
+            -2.262564182281494
+          ],
+          "s": [
+            0.10096892714500427,
+            0.14445357024669647,
+            0.02548409439623356
+          ],
+          "r": [
+            0.6879914999008179,
+            0.16330257058143616,
+            -0.16330258548259735,
+            0.6879914999008179
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 91,
+      "name": "Cube.088",
+      "primitives": [
+        {
+          "material": 0,
+          "materialName": "black mouse",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 40,
+          "materialName": "fridge",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.087",
+          "ni": 98,
+          "t": [
+            3.2614059448242188,
+            -1.6304434537887573,
+            -2.2596659660339355
+          ],
+          "s": [
+            0.2600608766078949,
+            0.3224848210811615,
+            0.2309524565935135
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 92,
+      "name": "Cube.089",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 27,
+          "materialName": "red.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.088",
+          "ni": 99,
+          "t": [
+            -2.6703853607177734,
+            0.9725120067596436,
+            1.4311094284057617
+          ],
+          "s": [
+            0.11346623301506042,
+            0.16233311593532562,
+            0.0404423326253891
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 93,
+      "name": "Cube.091",
+      "primitives": [
+        {
+          "material": 26,
+          "materialName": "blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.089",
+          "ni": 100,
+          "t": [
+            -2.6703853607177734,
+            0.9571239948272705,
+            1.3533008098602295
+          ],
+          "s": [
+            0.11346623301506042,
+            0.14727476239204407,
+            0.02685731090605259
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 94,
+      "name": "Cube.092",
+      "primitives": [
+        {
+          "material": 37,
+          "materialName": "dark blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.090",
+          "ni": 101,
+          "t": [
+            -2.588212728500366,
+            0.8458572626113892,
+            1.698615550994873
+          ],
+          "s": [
+            0.0835646539926529,
+            0.11955370754003525,
+            0.02978462725877762
+          ],
+          "r": [
+            -0.5818160176277161,
+            -0.401858389377594,
+            -0.4018583595752716,
+            0.5818160176277161
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 95,
+      "name": "Cube.093",
+      "primitives": [
+        {
+          "material": 26,
+          "materialName": "blue",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.091",
+          "ni": 102,
+          "t": [
+            -2.5942254066467285,
+            0.5651754140853882,
+            2.2317347526550293
+          ],
+          "s": [
+            0.0835646539926529,
+            0.11955370754003525,
+            0.02978462725877762
+          ],
+          "r": [
+            -0.5818160176277161,
+            -0.401858389377594,
+            -0.4018583595752716,
+            0.5818160176277161
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 101,
+      "name": "Cube.103",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.097",
+          "ni": 108,
+          "t": [
+            -0.40552395582199097,
+            1.580133318901062,
+            -2.722282886505127
+          ],
+          "s": [
+            1.0735679864883423,
+            0.08715984225273132,
+            0.014294931665062904
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 102,
+      "name": "Cube.104",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.098",
+          "ni": 109,
+          "t": [
+            -0.40552395582199097,
+            1.4053517580032349,
+            -2.722282886505127
+          ],
+          "s": [
+            1.0735679864883423,
+            0.08715984225273132,
+            0.014294931665062904
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 103,
+      "name": "Cube.105",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.099",
+          "ni": 110,
+          "t": [
+            -0.40552395582199097,
+            1.2308450937271118,
+            -2.722282886505127
+          ],
+          "s": [
+            1.0735679864883423,
+            0.08715984225273132,
+            0.014294931665062904
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 104,
+      "name": "Cube.106",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.100",
+          "ni": 111,
+          "t": [
+            -0.40552395582199097,
+            1.0560635328292847,
+            -2.722282886505127
+          ],
+          "s": [
+            1.0735679864883423,
+            0.08715984225273132,
+            0.014294931665062904
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 105,
+      "name": "Cube.107",
+      "primitives": [
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Cube.101",
+          "ni": 112,
+          "t": [
+            -0.40552395582199097,
+            0.881543755531311,
+            -2.722282886505127
+          ],
+          "s": [
+            1.0735679864883423,
+            0.08715984225273132,
+            0.014294931665062904
+          ]
+        }
+      ]
+    },
+    {
+      "mi": 118,
+      "name": "Plane.019",
+      "primitives": [
+        {
+          "material": 39,
+          "materialName": "cardboard.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 18,
+          "materialName": "white",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 13,
+          "materialName": "b_pvc",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 67,
+          "materialName": "wire_029029029",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 68,
+          "materialName": "file.001",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 69,
+          "materialName": "filee",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        },
+        {
+          "material": 70,
+          "materialName": "file",
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "hasCOLOR": false
+        }
+      ],
+      "usedBy": [
+        {
+          "node": "Plane.018",
+          "ni": 126,
+          "t": [
+            -1.3869292736053467,
+            -1.5673130750656128,
+            -1.7515664100646973
+          ],
+          "s": [
+            0.14284753799438477,
+            0.1577945351600647,
+            0.1577945351600647
+          ],
+          "r": [
+            0.7071068286895752,
+            0,
+            0,
+            0.7071068286895752
+          ]
+        }
+      ]
+    }
+  ]
+}
