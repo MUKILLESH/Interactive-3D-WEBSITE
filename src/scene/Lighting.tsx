@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef } from 'react';
 import { useFrame } from '@react-three/fiber';
-import { Environment, Lightformer, SoftShadows } from '@react-three/drei';
+import { Environment, Lightformer } from '@react-three/drei';
 import * as THREE from 'three';
 import { RectAreaLightUniformsLib } from 'three/addons/lights/RectAreaLightUniformsLib.js';
 import { usePortfolioStore } from '../state/usePortfolioStore';

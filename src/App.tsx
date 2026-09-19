@@ -1,8 +1,6 @@
 import { Suspense, useEffect } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { AdaptiveDpr, ContactShadows, Preload } from '@react-three/drei';
-import { Bloom, EffectComposer, N8AO, SMAA, ToneMapping, Vignette } from '@react-three/postprocessing';
-import { BlendFunction, ToneMappingMode } from 'postprocessing';
 import * as THREE from 'three';
 import { Model as Room } from './scene/RoomGLB';
 import { CameraController } from './interaction/CameraController';
